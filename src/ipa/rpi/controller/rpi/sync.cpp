@@ -5,7 +5,7 @@
  * sync.cpp - sync algorithm
  */
 
-// test
+// test 2
 
 #include "sync.h"
 
